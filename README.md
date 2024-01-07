@@ -20,5 +20,7 @@
   + Kiểm tra và sữa lỗi giao diện website.
   + Tạo prototype.
   + Viết báo cáo.
-- Hoàn thành công việc của tuần 5 là: 
+- Hoàn thành công việc của tuần 5 là:
+  + Kiểm tra và sữa lỗi chính tả cuốn báo cáo.
+    
 
