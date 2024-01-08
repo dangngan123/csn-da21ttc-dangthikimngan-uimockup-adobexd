@@ -18,7 +18,17 @@
   + Thiết kế giao diện website.
 - Hoàn thành công việc của tuần 4 là:
 <<<<<<< HEAD
+<<<<<<< HEAD
  + Kiểm tra và sữa lỗi giao diện website.
  + Tạo prototype.
  + Viết báo cáo.
 - Hoàn thành công việc của tuần 5 là: 
+=======
+  + Kiểm tra và sữa lỗi giao diện website.
+  + Tạo prototype.
+  + Viết báo cáo.
+- Hoàn thành công việc của tuần 5 là:
+  + Kiểm tra và sữa lỗi chính tả cuốn báo cáo.
+    
+
+>>>>>>> 27af8eae526e7316dda2e5ae83e0fc0dba269293
