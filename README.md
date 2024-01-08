@@ -1,4 +1,4 @@
-## Tìm hiểu UI MOCKUP trong thiết kế giao diện website ##
+<img width="431" alt="image" src="https://github.com/dangngan123/csn-da21ttc-dangthikimngan-uimockup-adobexd/assets/92629952/7f20ee8a-6a6a-41a7-8eaf-f8e05ce5c553">## Tìm hiểu UI MOCKUP trong thiết kế giao diện website ##
 ### Giảng viên hướng dẫn ###
   - Hà Thị Thúy Vi
   - Email: hattvi201084@gmail.com
@@ -17,11 +17,12 @@
 - Hoàn thành công việc của tuần 3 là:
   + Thiết kế giao diện website.
 - Hoàn thành công việc của tuần 4 là:
- + Kiểm tra và sữa lỗi giao diện website.
- + Tạo prototype.
- + Viết báo cáo.
+   + Kiểm tra và sữa lỗi giao diện website.
+   + Tạo prototype.
+   + Viết báo cáo.
 - Hoàn thành công việc của tuần 5 là:
-  + Kiểm tra và sữa lỗi chính tả cuốn báo cáo.
+   + Kiểm tra và sữa lỗi chính tả cuốn báo cáo.
+## Link sản phẩm: https://xd.adobe.com/view/9e6d58d1-c027-4eb3-9048-f632cb9fab61-cb3e/
     
 
 
